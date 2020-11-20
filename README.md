@@ -1,5 +1,5 @@
 # Book Recommendation:
-* Get books recommendations based on a specific book of your choice.
+* Get book recommendations based on a specific book of your choice.
 
 ### Algorithm:
 * [KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) is trained to cluster similar books together based on readers ratings.
